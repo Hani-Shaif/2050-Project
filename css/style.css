@@ -22,6 +22,10 @@ a.navbar-brand {
     font-size: 50px;
 }
 
+.nav-item {
+    padding: 0 8px;
+}
+
 a.nav-link {
     color: #fff;
     font-size: 18px;
@@ -123,6 +127,15 @@ a.btn:hover {
     line-height: 28px;
 }
 /* End Service */
+/* Start feature */
+.feature {
+    background-color: #F3F9FB;
+}
+.feature-img {
+    margin-left: -30px;
+}
+
+/* End feature */
 
 
 
@@ -131,6 +144,5 @@ a.btn:hover {
 
 
 
-/* End About Us */
 /* Start Service */
 /* End Service */
