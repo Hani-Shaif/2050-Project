@@ -94,7 +94,6 @@ a.btn:hover {
 .text-link {
     font-size: 18px;
     font-weight: 700;
-    border-bottom: 2px solid #6c63ff;
 }
 /* End About Us*/
 
@@ -132,17 +131,21 @@ a.btn:hover {
     background-color: #F3F9FB;
 }
 .feature-img {
-    margin-left: -30px;
+    margin-left: -150px;
 }
 
 /* End feature */
 
-
-
-
-
-
-
-
-/* Start Service */
-/* End Service */
+/* Start Product */
+.product-card {
+    border-bottom: 3px solid #4741AF;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+}
+.product-card:hover {
+    margin-top: -20px;
+}
+/* End Product */
