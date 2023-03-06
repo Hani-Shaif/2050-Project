@@ -88,7 +88,7 @@ a.btn:hover {
 }
 
 .about-text {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .text-link {
@@ -149,3 +149,36 @@ a.btn:hover {
     margin-top: -20px;
 }
 /* End Product */
+
+/* Start Features */
+.features-icon {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    background-color: #4741AF;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.about-text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #666666;
+}
+.feature-heading {
+    font-size: 21px;
+    font-weight: 700;
+}
+/* End Features */
+
+/* Start team */
+.team {
+    background-color: #f0f6fb;
+}
+/* End team */
+
+
