@@ -180,7 +180,7 @@ a.btn:hover {
     background-color: #f0f6fb;
 }
 /* End team */
-
+/* Start Latest-news */
 .news-heading {
     font-size: 21px;
     font-weight: 700;
@@ -190,5 +190,11 @@ a.btn:hover {
     margin-top: 150px;
     fill:#6c63ff
 }
+/* End Latest-news */
 
+/* Start Partners */
+.pointer {
+    cursor: pointer;
+}
+/* End Partners */
 
