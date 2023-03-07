@@ -181,4 +181,14 @@ a.btn:hover {
 }
 /* End team */
 
+.news-heading {
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.arrow-right {
+    margin-top: 150px;
+    fill:#6c63ff
+}
+
 
